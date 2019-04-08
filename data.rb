@@ -1,0 +1,5 @@
+TOKEN = "BOT TOKEN"
+
+BOT_ID = "BOT ID"
+
+DEFAULT_PREFIX = ["PREFIX", "es"]
